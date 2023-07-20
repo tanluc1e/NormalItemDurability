@@ -1,0 +1,10 @@
+durability-prefix-color: "§a"
+durability-keyword: "耐久度"
+durability-bar-length: 20
+durability-bar-prefix-color: "§c"
+durability-bar-suffix-color: "§c"
+used-symbol: "|"
+unused-symbol: "|"
+used-color: "§6"
+unused-color: "§7"
+percentage-color: "§b"
